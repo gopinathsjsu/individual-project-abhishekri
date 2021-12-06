@@ -30,9 +30,11 @@ Chain of Responsibility lets us pass requests along a chain of handlers. Upon re
 ## **How to Build and Run**
 
 We can "Edit configurations" while "Run"ning the code through CLI Arguments of our Application.
+<br/>
 
+Or, we can run give the file name through terminal input as following command by replacing the name of input files
 
+# java -cp .\abishekProject.jar MainClass "Input1 - Sheet1.csv"
+# java -cp .\abishekProject.jar MainClass "Input2 - Sheet1.csv"
+# java -cp .\abishekProject.jar MainClass "Input3 - Sheet1.csv"
 
-Or, we can run the following command by replacing the name of input files
-
-java -cp Abhishek-CMPE202.jar MainClass "Input1 - Sheet1.csv"
