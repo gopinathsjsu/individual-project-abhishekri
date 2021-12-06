@@ -14,14 +14,13 @@ Chain of Responsibility lets us pass requests along a chain of handlers. Upon re
 
 **Screenshots**
 
-\&lt;3 Images\&gt;
+
 
 **How to Build and Run**
 
-We can &#39;Edit configurations&#39; while &#39;Run&#39;ning the code through CLI Arguments of our Application.
+We can "Edit configurations" while "Run"ning the code through CLI Arguments of our Application.
 
-\&lt;Image\&gt;
 
 Or, we can run the following command by replacing the name of input files
 
-java -cp Abhishek-CMPE202.jar MainClass &quot;Input1 - Sheet1.csv&quot;
+java -cp Abhishek-CMPE202.jar MainClass "Input1 - Sheet1.csv"
