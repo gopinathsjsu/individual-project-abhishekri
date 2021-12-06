@@ -18,6 +18,11 @@ Chain of Responsibility lets us pass requests along a chain of handlers. Upon re
 
 ## **Screenshots** 
 ### Outputs
+<img width="818" alt="O1" src="https://user-images.githubusercontent.com/25710427/144792168-60296133-dadf-4a6b-a4ac-150bcdc4993e.png">
+<img width="824" alt="O2" src="https://user-images.githubusercontent.com/25710427/144792181-449c7df2-a128-43a1-837f-be78dfaaef1e.png">
+<img width="817" alt="O3" src="https://user-images.githubusercontent.com/25710427/144792191-e8cae91b-df0b-4f18-a412-639c9ad979c5.png"><br/><br/>
+
+
 
 ### Intermediate
 
