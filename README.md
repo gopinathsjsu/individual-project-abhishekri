@@ -1,5 +1,4 @@
 ## **Design Patterns Used**
-<br/>
 
 ### 1) Iterator
 
