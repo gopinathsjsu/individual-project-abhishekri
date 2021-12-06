@@ -10,7 +10,7 @@ Chain of Responsibility lets us pass requests along a chain of handlers. Upon re
 
 **Class Diagram**
 
-\&lt;Simple Class Diagram Image\&gt;
+
 
 **Screenshots**
 
