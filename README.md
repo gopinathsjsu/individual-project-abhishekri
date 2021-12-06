@@ -32,10 +32,14 @@ Order Success for Input-3 <br/>
 
 ### Intermediate
 
+Input-1 Output Sheet <br/>
+<img width="215" alt="i1" src="https://user-images.githubusercontent.com/25710427/144794415-ede08ea2-b121-44fb-aace-cf96493bea4a.png"><br/>
 
+Input-2 Output Sheet <br/>
+<img width="223" alt="i2" src="https://user-images.githubusercontent.com/25710427/144794590-3fffa8b8-c206-4cd7-82c2-e0b5d1eccc71.png"><br/>
 
-<br/>
-<br/>
+Input-3 Output Sheet <br/>
+<img width="217" alt="i3" src="https://user-images.githubusercontent.com/25710427/144794604-63c9d2b2-29aa-45b6-a02d-23e3a63bdd33.png"><br/><br/>
 
 
 ## **How to Build and Run**
