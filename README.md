@@ -28,7 +28,6 @@ Chain of Responsibility lets us pass requests along a chain of handlers. Upon re
 
 We can "Edit configurations" while "Run"ning the code through CLI Arguments of our Application.
 
-<img width="506" alt="1" src="https://user-images.githubusercontent.com/25710427/144780655-5a100d9c-7b1c-4d24-86a6-f4b48a627066.png">
 
 
 Or, we can run the following command by replacing the name of input files
