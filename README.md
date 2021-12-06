@@ -1,5 +1,4 @@
 ## **Design Patterns Used**
-
 ### 1) Iterator
 
 Iterator lets us traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.). Take each category&#39;s item and map it to the item list.
@@ -18,6 +17,10 @@ Chain of Responsibility lets us pass requests along a chain of handlers. Upon re
 
 
 ## **Screenshots** 
+### Outputs
+
+### Intermediate
+
 
 
 <br/>
